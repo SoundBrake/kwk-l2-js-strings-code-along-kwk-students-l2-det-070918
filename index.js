@@ -1,4 +1,4 @@
 // Write your code in this file!
 var currentUser = "Mary"
 var welcomeMessage = "Welcome to Klossybook, " + currentUser + "!"
-var excitedWelcomeMessage = "WELCOME TO KLOSSYBOOK, "
+var excitedWelcomeMessage = "WELCOME TO KLOSSYBOOK, " + currentUser+ "!"
