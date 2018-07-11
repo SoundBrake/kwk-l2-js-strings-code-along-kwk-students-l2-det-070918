@@ -2,4 +2,4 @@
 var currentUser = "Mary"
 var welcomeMessage = "Welcome to Klossybook, " + currentUser + "!"
 var excitedWelcomeMessage = "WELCOME TO KLOSSYBOOK, " + currentUser+ "!"
-var shortGreeting = "Welcome, "  + 
+var shortGreeting = "Welcome, "  + currentUser.charAt(0)  + "!"
